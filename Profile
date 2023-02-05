@@ -1,0 +1,1494 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Hi! I am Muhammad Ahmar Jamal, an international undergraduate EEE Student at Bilkent University. Looking for freelance opportunities in PCB Design, Python programming, and Electrical and Electronics Engineering.">
+    <meta name="author" content="Muhammad Ahmar Jamal - Bilkent University (Ankara)">
+
+    <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
+	<meta property="og:site_name" content="Muhammad Ahmar Jamal"> <!-- website name -->
+	<meta property="og:site" content="https://atherrrrr.github.io/"> <!-- website link -->
+	<meta property="og:title" content="Muhammad Ahmar Jamal's Personal Website"> <!-- title shown in the actual shared post -->
+	<meta property="og:description" content="Hi! I am Muhammad Ahmar Jamal, an international undergraduate EEE Student at Bilkent University. Looking for freelance opportunities in PCB Design, Python programming, and Electrical and Electronics Engineering."> <!-- description shown in the actual shared post -->
+	<meta property="og:image" content="images/logo.jpg"> <!-- image link, make sure it's jpg -->
+	<meta property="og:url" content="https://atherrrrr.github.io/"> <!-- where do you want your post to link to -->
+	<meta property="og:type" content="Personal Website">
+
+    <!-- Website Title -->
+    <title>Muhammad Ahmar Jamal || EEE Student at Bilkent || PCB Designer, Python Programmar, Electrical and Electronics Engineer</title>
+    
+    <!-- Styles -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:500,700&amp;display=swap&amp;subset=latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600&amp;display=swap&amp;subset=latin-ext" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/fontawesome-all.css" rel="stylesheet">
+    <link href="css/swiper.css" rel="stylesheet">
+	<link href="css/magnific-popup.css" rel="stylesheet">
+	<link href="css/styles.css" rel="stylesheet">
+	
+	<!-- Favicon  -->
+    <link rel="icon" href="images/logo.svg">
+<style type="text/css">.keyword-info-container {
+  box-sizing: border-box;
+  width: 100%;
+  margin-bottom: 20px;
+  font-size: 12px;
+  border-bottom: 1px solid #dee1e5;
+}
+
+.keyword-info-container.youtube {
+  margin-bottom: 0;
+  border-bottom: none;
+}
+
+.keyword-info-container .title {
+  color: #26282d;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.keyword-info-container .tabs {
+  list-style: none;
+  display: flex;
+  justify-content: flex-start;
+  border-bottom: 1px solid #dee1e5;
+  margin-top: -10px;
+  padding: 0px 16px;
+  align-items: center;
+}
+.keyword-info-container .tabs li {
+  padding: 8px;
+  padding-left: 0;
+  color: #000;
+  cursor: pointer;
+  font-size: 12px;
+}
+.keyword-info-container .tabs li.small {
+  font-size: 10px;
+}
+.keyword-info-container .tabs li:last-child {
+  overflow: hidden;
+}
+
+.keyword-info-container .tabs li.active {
+  color: #4285f4;
+}
+
+table.keyword-info-table {
+  border-collapse: collapse;
+  width: 100%;
+  color: #000;
+  font-size: 12px;
+  position: relative;
+}
+
+.keyword-info-table thead {
+  height: 50px;
+}
+
+.keyword-info-table th {
+  padding: 10px;
+  padding-left: 0;
+  font-weight: bold;
+  color: #000000;
+  font-size: 12px;
+}
+
+.keyword-info-table th:first-child {
+  padding-left: 16px;
+}
+
+.keyword-info-table th:last-child {
+  padding-right: 16px;
+}
+
+.keyword-info-table td {
+  border-bottom: 1px solid #dee1e5;
+  padding: 10px;
+  padding-left: 0;
+  height: 50px;
+  box-sizing: border-box;
+}
+
+.keyword-info-table td:first-child {
+  padding-left: 16px;
+}
+
+.keyword-info-table td:last-child {
+  padding-right: 16px;
+}
+
+.keyword-info-table tfoot tr {
+  background-color: #dee1e544;
+}
+
+.keyword-info-table tfoot tr:last-child td {
+  border-bottom: none;
+}
+
+.ubersuggest-button {
+  color: #0086f7;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 29px;
+  padding: 8px 30px;
+  border: 1px solid #0086f7;
+  background-color: #ffffff;
+  border-radius: 2px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  margin: 4px;
+}
+
+.ubersuggest-logo-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin: 10px 10px 0 0;
+  font-weight: bold;
+  color: #26282d;
+}
+
+.ubersuggest-logo {
+  width: 182px;
+  height: 33px;
+  cursor: pointer;
+}
+
+.keyword-info-container .row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  padding: 20px 16px;
+  border-top: 1px solid #dee1e5;
+}
+
+.header h2 {
+  color: #000000;
+  font-family: Geomanist;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+/*
+Youtube Dark theme styling
+*/
+html[dark] .keyword-info-container .title {
+  color: #fff;
+}
+
+html[dark] .keyword-info-container .tabs {
+  border-color: #ffffff0d;
+}
+
+html[dark] .keyword-info-container .tabs li {
+  color: #fff;
+}
+
+html[dark] .keyword-info-container .tabs li.active {
+  color: #4285f4;
+}
+
+html[dark] table.keyword-info-table {
+  color: #fff;
+}
+
+html[dark] .keyword-info-table th {
+  color: #fff;
+}
+
+html[dark] .keyword-info-table tfoot tr {
+  background-color: #3d3d3d;
+}
+
+html[dark] .keyword-info-table tfoot tr:last-child td .button-arrow {
+  border-color: #fff;
+}
+
+.keyword-info-table tfoot tr:last-child td .button-arrow.disabled {
+  border-color: #9b9b9b !important;
+}
+
+/*
+Google Dark theme styling
+*/
+
+body[data-dt='1'] .keyword-info-container .title {
+  color: #fff;
+}
+
+body[data-dt='1'] .keyword-info-container .tabs {
+  border-color: #ffffff0d;
+}
+
+body[data-dt='1'] .keyword-info-container .tabs li {
+  color: #fff;
+}
+
+body[data-dt='1'] .keyword-info-container .tabs li.active {
+  color: #4285f4;
+}
+
+body[data-dt='1'] table.keyword-info-table {
+  color: #fff;
+}
+
+body[data-dt='1'] .keyword-info-table th {
+  color: #fff;
+}
+
+body[data-dt='1'] .keyword-info-table tfoot tr {
+  background-color: #3d3d3d;
+}
+
+body[data-dt='1'] .keyword-info-table tfoot tr:last-child td .button-arrow {
+  border-color: #fff;
+}
+</style><style type="text/css">.tippy-box[data-theme~='transparent'] {
+  background-color: transparent;
+  background-clip: padding-box;
+  border: none;
+  color: #333;
+  box-shadow: none;
+}
+.tippy-box[data-theme~='transparent'] > .tippy-backdrop {
+  background-color: transparent;
+}
+.tippy-box[data-theme~='transparent'] > .tippy-arrow:after,
+.tippy-box[data-theme~='transparent'] > .tippy-svg-arrow:after {
+  content: '';
+  position: absolute;
+  z-index: -1;
+}
+.tippy-box[data-theme~='transparent'] > .tippy-arrow:after {
+  border-color: transparent;
+  border-style: solid;
+}
+.tippy-box[data-theme~='transparent'][data-placement^='top']
+  > .tippy-arrow:before {
+  border-top-color: transparent;
+}
+.tippy-box[data-theme~='transparent'][data-placement^='top']
+  > .tippy-arrow:after {
+  border-top-color: transparent;
+  border-width: 7px 7px 0;
+  top: 17px;
+  left: 1px;
+}
+.tippy-box[data-theme~='transparent'][data-placement^='top']
+  > .tippy-svg-arrow
+  > svg {
+  top: 16px;
+}
+.tippy-box[data-theme~='transparent'][data-placement^='top']
+  > .tippy-svg-arrow:after {
+  top: 17px;
+}
+.tippy-box[data-theme~='transparent'][data-placement^='bottom']
+  > .tippy-arrow:before {
+  border-bottom-color: transparent;
+  bottom: 16px;
+}
+.tippy-box[data-theme~='transparent'][data-placement^='bottom']
+  > .tippy-arrow:after {
+  border-bottom-color: transparent;
+  border-width: 0 7px 7px;
+  bottom: 17px;
+  left: 1px;
+}
+.tippy-box[data-theme~='transparent'][data-placement^='bottom']
+  > .tippy-svg-arrow
+  > svg {
+  bottom: 16px;
+}
+.tippy-box[data-theme~='transparent'][data-placement^='bottom']
+  > .tippy-svg-arrow:after {
+  bottom: 17px;
+}
+.tippy-box[data-theme~='transparent'][data-placement^='left']
+  > .tippy-arrow:before {
+  border-left-color: transparent;
+}
+.tippy-box[data-theme~='transparent'][data-placement^='left']
+  > .tippy-arrow:after {
+  border-left-color: transparent;
+  border-width: 7px 0 7px 7px;
+  left: 17px;
+  top: 1px;
+}
+.tippy-box[data-theme~='transparent'][data-placement^='left']
+  > .tippy-svg-arrow
+  > svg {
+  left: 11px;
+}
+.tippy-box[data-theme~='transparent'][data-placement^='left']
+  > .tippy-svg-arrow:after {
+  left: 12px;
+}
+.tippy-box[data-theme~='transparent'][data-placement^='right']
+  > .tippy-arrow:before {
+  border-right-color: transparent;
+  right: 16px;
+}
+.tippy-box[data-theme~='transparent'][data-placement^='right']
+  > .tippy-arrow:after {
+  border-width: 7px 7px 7px 0;
+  right: 17px;
+  top: 1px;
+  border-right-color: transparent;
+}
+.tippy-box[data-theme~='transparent'][data-placement^='right']
+  > .tippy-svg-arrow
+  > svg {
+  right: 11px;
+}
+.tippy-box[data-theme~='transparent'][data-placement^='right']
+  > .tippy-svg-arrow:after {
+  right: 12px;
+}
+.tippy-box[data-theme~='transparent'] > .tippy-svg-arrow {
+  fill: transparent;
+}
+.tippy-box[data-theme~='transparent'] > .tippy-svg-arrow:after {
+  /* background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCA2czEuNzk2LS4wMTMgNC42Ny0zLjYxNUM1Ljg1MS45IDYuOTMuMDA2IDggMGMxLjA3LS4wMDYgMi4xNDguODg3IDMuMzQzIDIuMzg1QzE0LjIzMyA2LjAwNSAxNiA2IDE2IDZIMHoiIGZpbGw9InJnYmEoMCwgOCwgMTYsIDAuMikiLz48L3N2Zz4=); */
+  background-size: 16px 6px;
+  width: 16px;
+  height: 6px;
+}
+</style><style type="text/css">.tippy-box[data-animation=fade][data-state=hidden]{opacity:0}[data-tippy-root]{max-width:calc(100vw - 10px)}.tippy-box{position:relative;background-color:#333;color:#fff;border-radius:4px;font-size:14px;line-height:1.4;outline:0;transition-property:transform,visibility,opacity}.tippy-box[data-placement^=top]>.tippy-arrow{bottom:0}.tippy-box[data-placement^=top]>.tippy-arrow:before{bottom:-7px;left:0;border-width:8px 8px 0;border-top-color:initial;transform-origin:center top}.tippy-box[data-placement^=bottom]>.tippy-arrow{top:0}.tippy-box[data-placement^=bottom]>.tippy-arrow:before{top:-7px;left:0;border-width:0 8px 8px;border-bottom-color:initial;transform-origin:center bottom}.tippy-box[data-placement^=left]>.tippy-arrow{right:0}.tippy-box[data-placement^=left]>.tippy-arrow:before{border-width:8px 0 8px 8px;border-left-color:initial;right:-7px;transform-origin:center left}.tippy-box[data-placement^=right]>.tippy-arrow{left:0}.tippy-box[data-placement^=right]>.tippy-arrow:before{left:-7px;border-width:8px 8px 8px 0;border-right-color:initial;transform-origin:center right}.tippy-box[data-inertia][data-state=visible]{transition-timing-function:cubic-bezier(.54,1.5,.38,1.11)}.tippy-arrow{width:16px;height:16px;color:#333}.tippy-arrow:before{content:"";position:absolute;border-color:transparent;border-style:solid}.tippy-content{position:relative;padding:5px 9px;z-index:1}</style><style type="text/css">.tippy-box[data-theme~=light]{color:#26323d;box-shadow:0 0 20px 4px rgba(154,161,177,.15),0 4px 80px -8px rgba(36,40,47,.25),0 4px 4px -2px rgba(91,94,105,.15);background-color:#fff}.tippy-box[data-theme~=light][data-placement^=top]>.tippy-arrow:before{border-top-color:#fff}.tippy-box[data-theme~=light][data-placement^=bottom]>.tippy-arrow:before{border-bottom-color:#fff}.tippy-box[data-theme~=light][data-placement^=left]>.tippy-arrow:before{border-left-color:#fff}.tippy-box[data-theme~=light][data-placement^=right]>.tippy-arrow:before{border-right-color:#fff}.tippy-box[data-theme~=light]>.tippy-backdrop{background-color:#fff}.tippy-box[data-theme~=light]>.tippy-svg-arrow{fill:#fff}</style><style type="text/css">.ubersuggest-header-container {
+  box-sizing: border-box;
+  width: 100%;
+  font-size: 12px;
+}
+
+.ubersuggest-header-container .row {
+  margin: 0;
+  padding: 15px 16px 15px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 30px;
+}
+
+.ue-enable {
+  display: block;
+}
+
+.ue-disable {
+  display: none !important;
+}
+
+.ubersuggest-header-container .settings {
+  display: flex;
+  align-items: center;
+  margin-right: 18px;
+}
+.ubersuggest-header-container .settings-label {
+  margin-right: 21px;
+}
+
+.ubersuggest-header-container .settings-icon {
+  width: 21px;
+  height: 21px;
+  margin-right: 7px;
+}
+</style><style type="text/css">.keyword-info-section {
+  color: #26282d;
+  font-family: Arial;
+  font-size: 12px;
+  padding: 8px 0 10px 8px;
+  display: flex;
+  align-items: center;
+}
+
+.keyword-info-section.hidden {
+  display: none;
+}
+
+.keyword-info-section.google {
+  background-color: #fff;
+}
+
+body[data-dt='1'] .keyword-info-section.google {
+  background-color: #303134;
+}
+
+.keyword-info-section.youtube {
+  margin-right: 15px;
+  padding: 0 0 0 10px;
+  height: 100%;
+  background-color: #fff;
+}
+
+.keyword-info-section.amazon {
+  padding: 13px 0;
+  background-color: #fff;
+}
+</style><style type="text/css">.kw-overview-container {
+  box-sizing: border-box;
+  width: 673px;
+  padding: 0;
+  margin: 0;
+  margin-top: 14px;
+  font-size: 12px;
+  font-family: Arial;
+}
+.kw-overview-container.youtube {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  font-size: 12px;
+}
+</style><style type="text/css">.bl-info-container {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  font-size: 12px;
+}
+.bl-info-header {
+  display: flex;
+  height: 24px;
+  width: 100%;
+  padding: 0;
+  justify-content: space-between;
+  cursor: pointer;
+  box-sizing: border-box;
+  margin-bottom: 5px;
+}
+
+.bl-info-header .row {
+  display: flex;
+  margin: 0;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.bl-info-header .row.youtube {
+  justify-content: flex-start;
+}
+
+.bl-info-content,
+.kw-info-content {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #dee1e5;
+  border-radius: 8px;
+  padding-top: 0;
+}
+
+body[data-dt='1'] .kw-info-content,
+body[data-dt='1'] .bl-info-content {
+  background: #2a2a2a;
+  border-color: #2a2a2a;
+}
+
+.bl-info-content img.loading {
+  width: 50px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+.kw-info-content img.loading {
+  width: 50px;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+table.bl-info-table,
+table.kw-info-table {
+  border-collapse: collapse;
+  width: 100%;
+  color: #808185;
+  font-size: 12px;
+}
+
+body[data-dt='1'] table.bl-info-table,
+body[data-dt='1'] table.kw-info-table {
+  color: #fff;
+}
+
+.bl-info-table thead,
+.kw-info-table thead {
+  height: 50px;
+}
+
+.bl-info-table tr,
+.kw-info-table tr {
+  width: 100%;
+  max-width: 600px;
+}
+
+.bl-info-table th,
+.kw-info-table th {
+  padding: 10px;
+  padding-left: 0;
+  font-weight: bold;
+  color: #000000;
+  font-size: 11px;
+  border-bottom: 1px solid #dee1e5;
+}
+
+body[data-dt='1'] .bl-info-table th,
+body[data-dt='1'] .kw-info-table th {
+  color: #fff;
+}
+
+.bl-info-table th:first-child,
+.kw-info-table th:first-child {
+  padding-left: 16px;
+}
+
+.bl-info-table th:last-child,
+.kw-info-table th:last-child {
+  border-right: none;
+  padding-right: 16px;
+}
+
+.bl-info-table td,
+.kw-info-table td {
+  border-bottom: 1px solid #dee1e5;
+  padding: 10px;
+  padding-left: 0;
+  max-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: #000;
+}
+
+body[data-dt='1'] .bl-info-table td,
+body[data-dt='1'] .kw-info-table td {
+  color: #fff;
+}
+
+.bl-info-table td:first-child,
+.kw-info-table td:first-child {
+  border-left: none;
+  padding-left: 16px;
+}
+
+.bl-info-table td:last-child,
+.kw-info-table td:last-child {
+  border-right: none;
+  padding-right: 16px;
+}
+
+.bl-info-table tfoot tr:last-child td,
+.kw-info-table tfoot tr:last-child td {
+  border-bottom: none;
+}
+
+.bl-info-container .row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+</style><style type="text/css">.statistics-graph-container {
+  box-sizing: border-box;
+  width: 100%;
+  margin-bottom: 5px;
+  font-size: 12px;
+  padding: 0px 16px;
+}
+
+.statistics-graph-container .row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0 20px 0;
+}
+
+.statistics-graph-container .row .title {
+  color: #26282d;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.statistics-graph-container .tabs {
+  list-style: none;
+  display: flex;
+  justify-content: flex-start;
+  border-bottom: 1px solid #dee1e5;
+  margin: 0 -16px;
+  margin-bottom: 10px;
+  margin-top: -10px;
+  padding: 0px 16px;
+}
+
+.statistics-graph-container .tabs li {
+  display: flex;
+  align-items: center;
+  padding: 8px 16px;
+  color: #000;
+  cursor: pointer;
+  font-size: 13px;
+  border-bottom: 3px solid transparent;
+}
+
+.statistics-graph-container .tabs li:first-child {
+  margin-left: -16px;
+}
+
+.statistics-graph-container .tabs li.active {
+  color: #4285f4;
+  border-bottom: 3px solid #4285f4;
+}
+
+/* Google Dark Theme */
+body[data-dt='1'] .statistics-graph-container .row .title {
+  color: #fff;
+}
+
+body[data-dt='1'] .statistics-graph-container .tabs {
+  border-bottom: 1px solid #dee1e5;
+}
+
+body[data-dt='1'] .statistics-graph-container .tabs li {
+  color: #fff;
+}
+
+body[data-dt='1'] .statistics-graph-container .tabs li.active {
+  color: #fff;
+  border-bottom: 3px solid #fff;
+}
+</style></head>
+
+<body data-spy="scroll" data-target=".fixed-top"><a href="body" class="back-to-top page-scroll">Back to Top</a>
+    
+    <!-- Preloader -->
+	<div class="spinner-wrapper" style="display: none;">
+        <div class="spinner">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+        </div>
+    </div>
+    <!-- end of preloader -->
+    
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-md navbar-dark navbar-custom fixed-top">
+        <!-- Text Logo - Use this if you don't have a graphic logo -->
+        <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Muhammad Ahmar Jamal</a> -->
+
+        <!-- Image Logo -->
+        <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="Brand/Perosonal Logo"></a> -->
+        <a class="navbar-brand logo-text page-scroll" href="index.html">Muhammad Ahmar Jamal</a>
+        
+        <!-- Mobile Menu Toggle Button -->
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" maher="" athar="" ilyas-controls="navbarsExampleDefault" ilyas-expanded="false" ilyas-label="Toggle navigation">
+            <span class="navbar-toggler-awesome fas fa-bars"></span>
+            <span class="navbar-toggler-awesome fas fa-times"></span>
+        </button>
+        <!-- end of mobile menu toggle button -->
+
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link page-scroll active" href="#header">HOME <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link page-scroll" href="#intro">INTRO</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link page-scroll" href="#skills">SKILLS</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link page-scroll" href="#projects">PROJECTS</a><a>                       
+                </a></li><a>
+                </a><li class="nav-item"><a>
+                    </a><a class="nav-link page-scroll" href="#experience">EXPERIENCE</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link page-scroll" href="#honors">HONORS</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link page-scroll" href="#contact">GET IN TOUCH</a>
+                </li>
+            </ul>
+        </div>
+    </nav> <!-- end of navbar -->
+    <!-- end of navbar -->
+
+
+    <!-- Header -->
+    <header id="header" class="header">
+        <div class="header-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="text-container">
+                            <img class="cover-image" src="images/Ather-formal.png" alt="DP">
+                            <h1> <span id="js-rotating" class="morphext"><span class="animated fadeIn">ANDROID</span></span> DEVELOPER </h1>
+                            <p class="p-heading p-large">Hi! I am Muhammad Ahmar Jamal</p>
+                            <a target="_blank" class="btn-solid-lg page-scroll" href="Maher_Athar_Ilyas_Resume_2021.pdf">View Resume</a>
+                        </div>
+                    </div> <!-- end of col -->
+                </div> <!-- end of row -->
+            </div> <!-- end of container -->
+        </div> <!-- end of header-content -->
+    </header> <!-- end of header -->
+    <!-- end of header -->
+
+
+    <!-- Intro -->
+    <div id="intro" class="basic-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5">
+                    <div class="text-container">
+                        <div class="section-title">INTRO</div>
+                        <h2>Highly ambitious and motivated CS student</h2>
+                        <p>Hello!</p>
+                        <p>I am Athar, an international <b> sophomore </b> majoring in <b>Computer engineering</b> from <b>Bilkent University (Turkey)</b>. I have an entrepreneurial and solution-oriented mindset. I have rich experience in <b>Automation/Scripting, Full-Stack, Android app, Desktop application, and Software Development</b>, along with a passion for complex and intriguing programming problems.</p>
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-7">
+                    <div class="image-container">
+                        <a target="_blank" href="https://w3.bilkent.edu.tr/bilkent/">
+                            <img class="img-fluid" src="images/bilkent_uni.jpg" alt="Bilkent University">
+                        </a>
+                    </div> <!-- end of image-container -->
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-1 -->
+    <!-- end of intro -->
+
+    <!-- Skills  -->
+
+    <!-- end of intro -->
+
+
+    <!-- Skills -->
+    <div id="skills" class="cards-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="text-container">
+                        <div class="section-title">SKILLS</div>
+                        <h2>Heres a comprehensive list of my skills</h2>
+                        <br>
+                    </div> <!-- end of text-container -->
+                    
+                    <!-- Card -->
+                    <div class="card">
+                        <span class="fa-stack">
+                            <span class="hexagon"></span>
+                            <i class="full-stack"></i>
+                        </span>
+                        <div class="card-body">
+                            <h4 class="card-title">Full Stack Development</h4>
+                            
+                                <ul>
+                                    <li>
+                                        <p>HTML 5 </p>
+                                    </li>
+                                    <li>
+                                        <p>CSS 3 </p>
+                                    </li>
+                                    <li>
+                                        <p>Bootstrap </p>
+                                    </li>
+                                    <li>
+                                        <p>JavaScript </p>
+                                    </li>
+                                    <li>
+                                        <p>MySQL </p>
+                                    </li>
+                                    <li>
+                                        <p>Git &amp; GitHub</p>
+                                    </li>
+                                    <li>
+                                        <p>PHP</p>
+                                    </li>
+                                </ul>
+                            
+                        </div>
+                    </div>
+                    <!-- end of card -->
+
+                    <!-- Card -->
+                    <div class="card">
+                        <span class="fa-stack">
+                            <span class="hexagon"></span>
+                            <i class="android"></i>
+                        </span>
+                        <div class="card-body">
+                            <h4 class="card-title">Android Development</h4>
+                            <ul>
+                                <li>                                    
+                                    <p>Java</p>
+                                </li>
+                                <li>                                    
+                                    <p>Kotlin</p>
+                                </li>
+                                <li>                                    
+                                    <p>Android Studio</p>
+                                </li>
+                                <li>                                    
+                                    <p>XML</p>
+                                </li>
+                                <li>                                    
+                                    <p>JDBC</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- end of card -->
+
+                    <!-- Card -->
+                    <div class="card">
+                        <span class="fa-stack">
+                            <span class="hexagon"></span>
+                            <i class="graphic"></i>
+                        </span>
+                        <div class="card-body">
+                            <h4 class="card-title">Miscellaneous</h4>
+                            <ul>
+                                <li>                                    
+                                    <p>Python</p>
+                                </li>
+                                <li>                                    
+                                    <p>API Integration</p>
+                                </li>
+                                <li>                                    
+                                    <p>C++</p>
+                                </li>
+                                <li>                                    
+                                    <p>Corel Draw</p>
+                                </li>
+                                <li>                                    
+                                    <p>Adobe Premiere Pro</p>
+                                </li>
+                                <li>                                    
+                                    <p>SEO</p>
+                                </li>
+                                <li>                                    
+                                    <p>Social Media Marketing</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- end of card -->
+
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of cards-1 -->
+    <!-- end of description -->
+
+    
+    <!-- Projects -->
+	<div id="projects" class="filter">
+		<div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title">PROJECTS</div>
+                    <h2>Projects That I Am Proud Of</h2>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <!-- Filter -->
+                    <div class="button-group filters-button-group">
+                        <a class="button is-checked" data-filter="*"><span>SHOW ALL</span></a>
+                        <a class="button" data-filter=".desktop"><span>DESKTOP</span></a>
+                        <a class="button" data-filter=".android-app"><span>ANDROID</span></a>
+                        <a class="button" data-filter=".web"><span>WEB</span></a>
+                        <a class="button" data-filter=".misc"><span>MISCELLANEOUS</span></a>
+                    </div> <!-- end of button group -->
+                    <div class="grid" style="position: relative; height: 744.716px;">
+                        <div class="element-item misc" style="position: absolute; left: 0px; top: 0px;">
+                            <a class="popup-with-move-anim" href="#project-1"><div class="element-item-overlay"><span>Cryptocurrency Trading Bot</span></div><img src="images/Crypto-Binance.jpg" alt="Crypto Trading Bot Based on Binance API"></a>
+                        </div>
+                        <div class="element-item desktop" style="position: absolute; left: 255px; top: 0px;">
+                            <a class="popup-with-move-anim" href="#project-2"><div class="element-item-overlay"><span>Habinet</span></div><img src="images/Habinet.jpg" alt="Habinet - Social Media of Productivity"></a>
+                        </div>
+                        <div class="element-item web" style="position: absolute; left: 0px; top: 248.636px;">
+                            <a class="popup-with-move-anim" href="#project-3"><div class="element-item-overlay"><span>Personal Website</span></div><img src="images/project-3.jpg" alt="Personal Website"></a>
+                        </div>
+                        <div class="element-item android-app" style="position: absolute; left: 255px; top: 248.636px;">
+                            <a class="popup-with-move-anim" href="#project-4"><div class="element-item-overlay"><span>Smart-Music Player App</span></div><img src="images/project-4.jpg" alt="Project-4 Image"></a>
+                        </div>
+                        <div class="element-item misc" style="position: absolute; left: 0px; top: 497.287px;">
+                            <a class="popup-with-move-anim" href="#project-5"><div class="element-item-overlay"><span>Programmable Processor</span></div><img src="images/project-5.jpg" alt="Project-3 Image"></a>
+                        </div>
+                    </div> <!-- end of grid -->
+                    <!-- end of filter -->
+                    
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+		</div> <!-- end of container -->
+    </div> <!-- end of filter -->
+    <!-- end of projects -->
+
+    <!-- Biance Lightboxe -->
+    <!-- Lightbox -->
+    <div id="project-1" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="images/Crypto-Binance.jpg" alt="Crypto Trading Bot Based on Binance API">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>Cryptocurrency Trading Bot for Binance &amp; Kucoin</h3>
+                <hr class="line-heading">
+
+                <p>Python bot with <b>integrated APIs</b> of Binance, Kucoin, and Telegram that requests <b>live crypto price data</b> from exchanges, executes a variety of <b>trade orders</b> (Market/Limit/ OCO), and sends <b>notifications on user's Telegram account</b> after preliminary calculations of multiple TA-indicators and candle patterns.</p>
+                <p> The project is currently in <b>Backtesting Phase</b>, whereby different combinations of strategies are being tested against the PNL of HODLing.
+                </p>
+                <h6> ~ Python,  API Integration, JSON, websockets, requests, TA-Indicators and candle patterns</h6>
+                <a class="mfp-close as-button btn-solid-reg " href="#contact" style="color: white;">Contact Me</a> 
+                <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Habinet Lightbox -->
+    <div id="project-2" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="images/Habinet.jpg" alt="Habinet - Social Media of Productivity">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>Habinet: The Social Media Of Productivity</h3>
+                <hr class="line-heading">
+                <p>A <b>gamified</b> habit tracking desktop application with integrated social media features such as <b>groups, group chat, leaderboards, past trends/habits visualizing graphs and to-do list</b>.The application uses a relational <b>database</b> hosted on a web server to store user data.
+                </p><p>This project was created as a semester-long project for the <b>CS-102 course</b>. The project was done by a team of four members, including myself. </p>                
+                <h6>~ Java, JDBC, MySQL, Swing and Database Management</h6>
+                <a class="btn-solid-reg" href="#github-link">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Resume Lightbox -->
+    <div id="project-3" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="images/project-3.jpg" alt="Personal Website">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>Personal Website</h3>
+                <hr class="line-heading">
+                <p>An online <b>mobile-friendly</b> and responsive resume website, that lists my work experience, projects and awards in an interactive way. The website is styled and animated using <b>CSS, Bootstrap and Javascript</b> with a contact me form implemented using PHP. The website is hosted on <b>Github Pages</b> and updated using <b>Git</b>.) </p>
+                <p>This website was created as personal project to practice full-stack technologies and tools.</p>                
+                <h6>~ HTML, CSS, Bootstrap, JavaScript, PHP, Git and Github Pages</h6>
+                <a class="btn-solid-reg mfp-close as-button" href="#header" style="color: white;">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-4" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">x</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="images/project-4.jpg" alt="Project-4 Image">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>Mood-based Music Player</h3>
+                <hr class="line-heading">                
+                <p>An android application with an <b>animated UI design</b> using XML and Java that plays .mp3 music files and groups music files using the <b>user's past preferences</b> to play later using the <b>user's current mood selections</b>.</p>
+                <p>This is another personal project started to practice the features of Android Studio and to explore the practical uses of Java.</p>
+                <h6>~ Java, XML, Android Studio</h6>
+                <a class="btn-solid-reg mfp-close as-button" href="#header" style="color: white;">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+    <!-- Lightbox -->
+    <div id="project-5" class="lightbox-basic zoom-anim-dialog mfp-hide">
+        <div class="row">
+            <button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+            <div class="col-lg-8">
+                <img class="img-fluid" src="images/project-5.jpg" alt="Java Project">
+            </div> <!-- end of col -->
+            <div class="col-lg-4">
+                <h3>Simplified 32-bit Programmable Processor </h3>
+                <hr class="line-heading">                
+                <p>A five instruction <b>(Load, Store, Jump, Add, Subtract)</b> processor implemented for <b>Basys-3 FPGA board</b> using simplified datapath and controller. The processor had <b>predefined intruction set in ROM</b> and could also input and <b>run external instructions<b> on runtime.</b></b></p><b><b>
+                <p>This project was created as a final project for the <b>CS-223 course</b>. The project was an <b>individual</b> project completed in four weeks. </p>
+                <h6>~ SystemVerilog, Vivado and Assembly</h6>
+                <a class="btn-solid-reg mfp-close as-button" href="#header" style="color: white;">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#projects">BACK</a> 
+            </b></b></div><b><b> <!-- end of col -->
+        </b></b></div><b><b> <!-- end of row -->
+    </b></b></div><b><b> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+
+
+    <!-- Experience -->
+    <div id="experience" class="cards-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title">EXPERIENCE</div>
+                    <h2>Past Professional Job / Internship Roles</h2>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <!-- Card -->
+                    <div class="card">
+                        <div class="card-image">
+                            <img class="img-fluid" src="images/Fiverr.jpg" alt="AL-HUDA Educational Institute">
+                        </div>
+                        <div class="card-body">
+                            <h3 class="card-title">Freelance Software Developer (Assistware)</h3>
+                            <br>
+                            <ul class="list-unstyled li-space-lg">
+                                <li class="media">
+                                    <i class="fas fa-square"></i>
+                                    <div class="media-body">Designed and deployed <strong>40+ cryptocurrency trading-bots for 25+</strong> clients as desktop or console application. </div>
+                                </li>
+                                <li class="media">
+                                    <i class="fas fa-square"></i>
+                                    <div class="media-body">Back-tested trading strategies involving TA-indicators on past candle data and provided <strong>PNL reports and optimization plans.</strong>.</div>
+                                </li>
+                                <li class="media">
+                                    <i class="fas fa-square"></i>
+                                    <div class="media-body">Deployed, maintained, and updated trading/scraping bots for <strong>commercial distribution</strong> for small-scale start-ups.</div>
+                                </li>
+                                <li class="media">
+                                    <i class="fas fa-square"></i>
+                                    <div class="media-body"><strong>Integrated Python APIs</strong> of Binance.com, Binance.us, Kucoin and Telegram in scripts and bots.</div>
+                                </li>
+                                <li class="media">
+                                    <i class="fas fa-square"></i>
+                                    <div class="media-body">Utilized websockets, requests, threading and JSON for <strong>web-scraping data</strong> from Discord and Coinmarketcap.</div>
+                                </li>
+                                <li class="media">
+                                    <i class="fas fa-square"></i>
+                                    <div class="media-body">Accomplished Level 1 seller status within the opening month of service and maintained a <strong>4.9/5 customer review</strong> score.</div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="button-container">
+                            <a target="_blank" class="btn-solid-reg page-scroll" href="https://www.fiverr.com/assistware">DETAILS</a>
+                        </div> <!-- end of button-container -->
+                    </div>
+                    <!-- end of card -->
+                    
+
+                    <!-- Card -->
+                    <div class="card">
+                        <div class="card-image">
+                            <img class="img-fluid" src="images/alhuda.jpg" alt="AL-HUDA Educational Institute">
+                        </div>
+                        <div class="card-body">
+                            <h3 class="card-title">Graphic Designer and Social Media Manager</h3>
+                            <br>
+                            <ul class="list-unstyled li-space-lg">
+                                <li class="media">
+                                    <i class="fas fa-square"></i>
+                                    <div class="media-body">Illustrated <strong>72 workbooks</strong> &amp; school magazines for primary classes on CorelDraw.</div>
+                                </li>
+                                <li class="media">
+                                    <i class="fas fa-square"></i>
+                                    <div class="media-body">Designed <strong>flyers, posters and video-advertisement</strong> for school events and marketing campaign.</div>
+                                </li>
+                                <li class="media">
+                                    <i class="fas fa-square"></i>
+                                    <div class="media-body">Commenced and executed social media marketing campaign, obtaining <strong>2.1k+ followers</strong> on Facebook and <strong>10k+ Subscribers</strong> on YouTube.</div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="button-container">
+                            <a target="_blank" class="btn-solid-reg page-scroll" href="https://www.youtube.com/channel/UCHyaUFFFkNV-lUMtkwHMrPw">DETAILS</a>
+                        </div> <!-- end of button-container -->
+                    </div>
+                    <!-- end of card -->
+
+                    <!-- Card -->
+                    <div class="card">
+                        <div class="card-image">
+                            <img class="img-fluid" src="images/SKMCH.jpg" alt="Shaukat Khanum Memorial 
+                            Cancer Hospital &amp; Research Center">
+                        </div>
+                        <div class="card-body">
+                            <h3 class="card-title">Marketing and Management Intern</h3>
+                            <br>
+                            <ul class="list-unstyled li-space-lg">
+                                <li class="media">
+                                    <i class="fas fa-square"></i>
+                                    <div class="media-body">Convinced management of <strong> 200+ shops</strong> all over Lahore to host donation boxes in their stores.</div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="button-container">
+                            <a target="_blank" class="btn-solid-reg page-scroll" href="https://shaukatkhanum.org.pk/">DETAILS</a>
+                        </div> <!-- end of button-container -->
+                    </div>
+                    <!-- end of card -->
+                    
+                    <!-- Card -->
+                    <div class="card">
+                        <div class="card-image">
+                            <img class="img-fluid" src="images/care.jpg" alt="Care Foundation">
+                        </div>
+                        <div class="card-body">
+                            <h3 class="card-title">Curriculum Development Intern</h3>
+                            <br>
+                            <ul class="list-unstyled li-space-lg">
+                                <li class="media">
+                                    <i class="fas fa-square"></i>
+                                    <div class="media-body">Revised annual SMART curriculum for underprivileged middle-school students.</div>
+                                </li>
+                                <li class="media">
+                                    <i class="fas fa-square"></i>
+                                    <div class="media-body">Received <strong>Best Intern Award</strong> for creativity and work ethic from a cohort of <strong>25 Interns</strong>.</div>
+                                </li> 
+                            </ul>
+                        </div>
+                        <div class="button-container">
+                            <a target="_blank" class="btn-solid-reg page-scroll" href="https://i-care-foundation.org/">DETAILS</a>
+                        </div> <!-- end of button-container -->
+                    </div>
+                    <!-- end of card -->
+
+                    <!-- Card -->
+                    <div class="card">
+                        <div class="card-image">
+                            <img class="img-fluid" src="images/Beaconhouse-Black.jpg" alt="Beaconhouse School System">
+                        </div>
+                        <div class="card-body">
+                            <h3 class="card-title">Peer Tutor</h3>
+                            <br>
+                            <ul class="list-unstyled li-space-lg">
+                                <li class="media">
+                                    <i class="fas fa-square"></i>
+                                    <div class="media-body">Organized study jams for <strong>Physics (9702) and Computer Science (9608)</strong> AS-Level students.
+                                    </div>
+                                </li>
+                                <li class="media">
+                                    <i class="fas fa-square"></i>
+                                    <div class="media-body">Monitored and assigned tutors to peers, subjects-wise.
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="button-container">
+                            <a target="_blank" class="btn-solid-reg page-scroll" href="https://www.beaconhouse.net/">DETAILS</a>
+                        </div> <!-- end of button-container -->
+                    </div>
+                    <!-- end of card -->
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of cards-2 -->
+    <!-- end of services -->
+
+
+
+
+    
+
+    <!-- Honors -->
+    <div id="honors" class="slider">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title" style="text-align: center;">HONORS</div>
+                    <br>
+                    <h2>List of Academic and Extra-Curricular Honors/ Awards</h2>
+                    <br>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <!-- Card Slider -->
+                    <div class="slider-container">
+                        <div class="swiper-container card-slider swiper-container-horizontal">
+                            <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-2874px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" style="width: 459px; margin-right: 20px;" data-swiper-slide-index="5">
+                                    <div class="card">
+                                        <img class="card-image" src="images/GSEA.jpg" alt="GSEA">
+                                        <div class="card-body">
+                                            <div class="testimonial-author">National English Contest Winner</div>
+                                            <br>
+                                            <div class="testimonial-text">Obtained <b>1st Position in Pakistan </b> for GSEA English Test </div>
+                                            <br>
+                                            <div class="testimonial-author">- Global System of Educational Assessments</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <!-- Slide -->
+                                <div class="swiper-slide swiper-slide-duplicate-next" style="width: 459px; margin-right: 20px;" data-swiper-slide-index="0">
+                                    <div class="card">
+                                        <img class="card-image" src="images/Bilkent.jpg" alt="High Honor Student Certificate">
+                                        <div class="card-body">
+                                            <div class="testimonial-author">High Honor Roll</div>
+                                            <br>
+                                            <div class="testimonial-text">Obtained High Honor certificate upon securing <b>3.88 CGPA</b> as a Freshman.</div>
+                                            <br>
+                                            <div class="testimonial-author"> - Bilkent University</div>
+                                        </div>
+                                    </div>
+                                </div> <!-- end of swiper-slide -->
+                                <!-- end of slide -->
+        
+                                <!-- Slide -->
+                                <div class="swiper-slide" style="width: 459px; margin-right: 20px;" data-swiper-slide-index="1">
+                                    <div class="card">
+                                        <img class="card-image" src="images/distinction.jpg" alt="Cambirdge Outstanding Learners Award">
+                                        <div class="card-body">
+                                            <div class="testimonial-author">Cambridge Outstanding Learners Award</div>
+                                            <br>
+                                            <div class="testimonial-text">Best Performance in O-Levels <b>Computer Science</b> examination May-June 2018 across the region.</div>
+                                            <br>
+                                            <div class="testimonial-author"> - Cambridge Assessment International Education</div>
+                                        </div>
+                                    </div>        
+                                </div> <!-- end of swiper-slide -->
+                                <!-- end of slide -->
+
+                                <!-- Slide -->
+                                <div class="swiper-slide" style="width: 459px; margin-right: 20px;" data-swiper-slide-index="2">
+                                    <div class="card">
+                                        <img class="card-image" src="images/INSEF.jpg" alt="INSEF">
+                                        <div class="card-body">
+                                            <div class="testimonial-author">National Best of Category Winner</div>
+                                            <br>
+                                            <div class="testimonial-text">Received Best Project award for Chemical Renewable Energy Category. Project was titled <b>"Earth Battery"</b> (Generating electricity from mud)</div>
+                                            <br>
+                                            <div class="testimonial-author">- Intel National Science and Engineering Fair</div>
+                                        </div>
+                                    </div>        
+                                </div> <!-- end of swiper-slide -->
+                                <!-- end of slide -->
+        
+                                <!-- Slide -->
+                                <div class="swiper-slide" style="width: 459px; margin-right: 20px;" data-swiper-slide-index="3">
+                                    <div class="card">
+                                        <img class="card-image" src="images/Beaconhouse.jpg" alt="Beaconhouse School System ALJT">
+                                        <div class="card-body">
+                                            <div class="testimonial-author">Highest Achiever Award</div>
+                                            <br>
+                                            <div class="testimonial-text">Received Gold Medal for securing perfect grades <b>(4A*)</b> in A-Levels</div>
+                                            <br>
+                                            <div class="testimonial-author"> - Beaconhouse School System</div>
+                                        </div>
+                                    </div>        
+                                </div> <!-- end of swiper-slide -->
+                                <!-- end of slide -->
+    
+
+                                <!-- Slide -->
+                                <div class="swiper-slide swiper-slide-prev" style="width: 459px; margin-right: 20px;" data-swiper-slide-index="4">
+                                    <div class="card">
+                                        <img class="card-image" src="images/tbt.jpg" alt="Table Tennis">
+                                        <div class="card-body">
+                                            <div class="testimonial-author">Regional Table Tennis Champion 2019</div>
+                                            <br>
+                                            <div class="testimonial-text">Won <b>Gold Medal</b> at Inter-Regional Table Tennis Championship 2019</div>
+                                            <br>
+                                            <div class="testimonial-author">- BSS Central Region</div>
+                                        </div>
+                                    </div>
+                                </div> <!-- end of swiper-slide -->
+                                <!-- end of slide -->
+
+                                <!-- Slide -->
+                                <div class="swiper-slide swiper-slide-active" style="width: 459px; margin-right: 20px;" data-swiper-slide-index="5">
+                                    <div class="card">
+                                        <img class="card-image" src="images/GSEA.jpg" alt="GSEA">
+                                        <div class="card-body">
+                                            <div class="testimonial-author">National English Contest Winner</div>
+                                            <br>
+                                            <div class="testimonial-text">Obtained <b>1st Position in Pakistan </b> for GSEA English Test </div>
+                                            <br>
+                                            <div class="testimonial-author">- Global System of Educational Assessments</div>
+                                        </div>
+                                    </div>
+                                </div> <!-- end of swiper-slide -->
+                                <!-- end of slide -->
+                            
+                            <div class="swiper-slide swiper-slide-duplicate swiper-slide-next" style="width: 459px; margin-right: 20px;" data-swiper-slide-index="0">
+                                    <div class="card">
+                                        <img class="card-image" src="images/Bilkent.jpg" alt="High Honor Student Certificate">
+                                        <div class="card-body">
+                                            <div class="testimonial-author">High Honor Roll</div>
+                                            <br>
+                                            <div class="testimonial-text">Obtained High Honor certificate upon securing <b>3.88 CGPA</b> as a Freshman.</div>
+                                            <br>
+                                            <div class="testimonial-author"> - Bilkent University</div>
+                                        </div>
+                                    </div>
+                                </div></div> <!-- end of swiper-wrapper -->
+        
+                            <!-- Add Arrows -->
+                            <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide"></div>
+                            <div class="swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide"></div>
+                            <!-- end of add arrows -->
+        
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div> <!-- end of swiper-container -->
+                    </div> <!-- end of sliedr-container -->
+                    <!-- end of card slider -->
+
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of slider -->
+    <!-- end of Honors -->
+
+
+    <!-- Contact -->
+    <div id="contact" class="form-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="text-container">
+                        <div class="section-title">Get In Touch</div>
+                        <h2>Contact Me Using This Form</h2>
+                        <p class="">I am looking forward to availing all types of new learning opportunities and connecting with new like-minded people.</p>
+                        <p class="">Use my social media handles or this form to contact me regarding <strong>Job or Freelance opportunities</strong>.</p>
+                        <ul class=" list-unstyled li-space-lg">
+                            <li class="address"><i class=" white fas fa-map-marker-alt"></i> Bilkent University - Main Campus, Ankara, Turkey.</li>
+                            <li><i class="fas fa-phone"></i><a href="tel:003024630820">+92 321 4531655</a></li>
+                            <li><i class="fas fa-envelope"></i><a href="mailto:office@Muhammad Ahmar Jamal.com">atherilyas100@gmail.com</a></li>
+                        </ul>
+                        <h3>Follow Me On Social Media</h3>
+
+                        <span class="fa-stack">
+                            <a target="_blank" href="https://www.facebook.com/ather.ilyas.5/">
+                                <span class="hexagon"></span>
+                                <i class="fab fa-facebook-f fa-stack-1x"></i>
+                            </a>
+                        </span>
+                        <span class="fa-stack">
+                            <a target="_blank" href="https://twitter.com/_atherrrrr">
+                                <span class="hexagon"></span>
+                                <i class="fab fa-twitter fa-stack-1x"></i>
+                            </a>
+                        </span>
+                        <span class="fa-stack">
+                            <a target="_blank" href="https://www.instagram.com/_atherrr/?hl=en">
+                                <span class="hexagon"></span>
+                                <i class="fab fa-instagram fa-stack-1x"></i>
+                            </a>
+                        </span>
+                        <span class="fa-stack">
+                            <a target="_blank" href="https://github.com/Atherrrrr">
+                                <span class="hexagon"></span>
+                                <i class="fab fab fa-github fa-stack-1x"></i>
+                            </a>
+                        </span>
+                        <span class="fa-stack">
+                            <a target="_blank" href="https://www.linkedin.com/in/athar-ilyas/">
+                                <span class="hexagon"></span>
+                                <i class="fab fa-linkedin-in fa-stack-1x"></i>
+                            </a>
+                        </span>
+
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-6">
+                    
+                    <!-- Contact Form -->
+                    <form id="my-form" data-toggle="validator" data-focus="false" action="https://formspree.io/f/moqylezn" method="POST" novalidate="true">
+                        <br>
+                        <div class="form-group">
+                            <input type="text" class="form-control-input" name="name" required="">
+                            <label class="label-control" for="cname">Name</label>
+                            <div class="help-block with-errors"></div>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" class="form-control-input" name="_replyto" required="">
+                            <label class="label-control" for="cemail">Email</label>
+                            <div class="help-block with-errors"></div>
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control-textarea" name="message" required=""></textarea>
+                            <label class="label-control" for="cmessage">Your message</label>
+                            <div class="help-block with-errors"></div>
+                        </div>
+                        <div class="form-group">
+                            <button id="my-form-button" type="submit" class="form-control-submit-button disabled">SUBMIT MESSAGE</button>
+                        </div>
+                        <div class="form-message">
+                            <div id="my-form-status" class="h3 text-center hidden"></div>
+                        </div>
+                    </form>
+                    <!-- end of contact form -->
+
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of form-2 -->
+    <!-- end of contact -->
+
+
+    <!-- Copyright -->
+    <div class="copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <p class="p-small">Copyright © 2021 <a href="#header">Muhammad Ahmar Jamal</a></p>
+                </div> <!-- end of col -->
+            </div> <!-- enf of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of copyright --> 
+    <!-- end of copyright -->
+    
+    	
+    <!-- Scripts -->
+    <script src="js/jquery.min.js"></script> <!-- jQuery for Bootstrap's JavaScript plugins -->
+    <script src="js/popper.min.js"></script> <!-- Popper tooltip library for Bootstrap -->
+    <script src="js/bootstrap.min.js"></script> <!-- Bootstrap framework -->
+    <script src="js/jquery.easing.min.js"></script> <!-- jQuery Easing for smooth scrolling between anchors -->
+    <script src="js/swiper.min.js"></script> <!-- Swiper for image and text sliders -->
+    <script src="js/jquery.magnific-popup.js"></script> <!-- Magnific Popup for lightboxes -->
+    <script src="js/morphext.min.js"></script> <!-- Morphtext rotating text in the header -->
+    <script src="js/isotope.pkgd.min.js"></script> <!-- Isotope for filter -->
+    <script src="js/validator.min.js"></script> <!-- Validator.js - Bootstrap plugin that validates forms -->
+    <script src="js/scripts.js"></script> <!-- Custom scripts -->
+
+    <!-- Script from Fromspree since PHP doesnt work on GitHub Pages -->
+    <script>
+        var form = document.getElementById("my-form");
+        
+        async function handleSubmit(event) {
+          event.preventDefault();
+          var status = document.getElementById("my-form-status");
+          var data = new FormData(event.target);
+          fetch(event.target.action, {
+            method: form.method,
+            body: data,
+            headers: {
+                'Accept': 'application/json'
+            }
+          }).then(response => {
+            status.innerHTML = "Thanks for your submission!";
+            form.reset()
+          }).catch(error => {
+            status.innerHTML = "Oops! There was a problem submitting your form"
+          });
+        }
+        form.addEventListener("submit", handleSubmit)
+    </script>
+
+
+
+
+</b></b><div class="ue-sidebar-container"></div></body>
+</html>
